@@ -1,1 +1,1 @@
-web: sh streamlit_setup.sh && streamlit run BMI_Calculator.py
+web: sh streamlit_setup.sh && streamlit run IndexApp.py
